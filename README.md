@@ -1,4 +1,6 @@
-## Hi there 👋
+## Qui suis-je?
+
+Je développe des applications depuis l'âge de 15 ans, j'ai commencé avec Locomotive BASIC sous AMSDOS sur un Schneider 64k, mes langages de prédilection pour le moment sont Dart avec le SDK Flutter et tout l'écosystème qui gravite autour.
 
 <!--
 **dimitri-colignon/dimitri-colignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
