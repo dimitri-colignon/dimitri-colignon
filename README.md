@@ -4,13 +4,13 @@
 
 Je développe des applications depuis l'âge de 15 ans (en 1985), j'ai commencé avec Locomotive BASIC sous AMSDOS sur un Schneider 64k, mes langages de prédilection (depuis 2019) sont Dart avec le SDK Flutter et tout l'écosystème qui gravite autour.
 
-## Mobile!
+### Mobile!
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
 
-## Db!
+### Db!
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,7 +55,7 @@ Je développe des applications depuis l'âge de 15 ans (en 1985), j'ai commencé
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -69,12 +69,12 @@ Je développe des applications depuis l'âge de 15 ans (en 1985), j'ai commencé
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=fff)
 
+## GitHub stats!
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-colignon&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ## Réseaux sociaux!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/DColignon)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DColignon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitri-colignon-a9b9ab105/)
-
-## GitHub stats!
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-colignon&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
