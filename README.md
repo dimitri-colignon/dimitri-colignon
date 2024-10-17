@@ -21,6 +21,10 @@ Je développe des applications depuis l'âge de 15 ans (en 1985), j'ai commencé
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitri-colignon-a9b9ab105/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DColignon)
 
+## GitHub stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-colignon&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <!--
 **dimitri-colignon/dimitri-colignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
