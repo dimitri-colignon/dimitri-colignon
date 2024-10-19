@@ -1,7 +1,6 @@
-# Bonjour, Je m'appelle Dimitri Colignon! 👋
-
 ## Qui suis-je?
 
+Bonjour, Je m'appelle Dimitri Colignon! 👋 
 Je développe des applications depuis l'âge de 15 ans (en 1985), j'ai commencé avec Locomotive BASIC sous AMSDOS sur un Schneider 64k.
 Mes langages de prédilection (depuis 2019) sont Dart avec le SDK Flutter et tout l'écosystème qui gravite autour.
 
