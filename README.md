@@ -24,6 +24,8 @@ Mes langages de prédilection (depuis 2019) sont Dart avec le SDK Flutter et tou
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff)
 
+Je les utilise surtout pour créer des API pour par exemple communiquer avec MongoDB ...
+
 ### Python!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
