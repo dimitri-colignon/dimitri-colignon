@@ -31,6 +31,8 @@ Je les utilise surtout pour créer des API pour par exemple communiquer avec Mon
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff)
 
+J'utilise surtout Django pour faire le backend API pour communiquer avec les appareils mobiles et une base de donnée ...
+
 ### Design!
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
