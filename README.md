@@ -29,10 +29,10 @@ Mes langages de prédilection (depuis 2019) sont Dart avec le SDK Flutter et tou
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff)
 
-J'utilise Django:
-- pour faire le backend API (Django REST framework) pour communiquer avec une base de donnée (exemple: pour les appareils mobiles)
-- pour faire le frontend web admin pour alimenter la Db
-- pour faire le frontend web site pour les utilisateurs
+J'utilise Django pour faire le:
+- backend API (Django REST framework) pour communiquer avec une base de donnée (exemple: pour les appareils mobiles)
+- frontend web admin pour alimenter la Db
+- frontend web site pour les utilisateurs
 
 ### Design!
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
