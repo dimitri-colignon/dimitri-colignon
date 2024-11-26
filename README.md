@@ -71,7 +71,7 @@ J'utilise Django pour faire le:
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=fff)
 
-Je dev des jeux en C# avec unity et apprend le code a mes enfants avec scratch ...
+Je développe des jeux en C# avec unity et apprend le code à mes enfants avec scratch ...
 
 ## GitHub stats!
 
